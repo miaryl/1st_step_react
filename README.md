@@ -10,3 +10,9 @@
   6, `code .` <br>
   7, en terminal `npm install` y `npm run dev`  <br>
 - premer paso de react
+- useState() <br>
+
+la página no está bien organizado, solo probar y ver como fúnciona y usar React
+
+
+<img src="./src/assets/Screenshot 2025-08-03 202212.png">

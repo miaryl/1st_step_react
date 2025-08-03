@@ -1,5 +1,13 @@
-.buttonCounter {
+.buttonLight {
     background-color: brown;
     color: black;
     margin-right: 20px;
+    border: solid 1px black;
+}
+
+.buttonDark{
+     background-color: lightcoral;
+    color: white;
+    margin-right: 20px;
+    border: solid 1px white;
 }
